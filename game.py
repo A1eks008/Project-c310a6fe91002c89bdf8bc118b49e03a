@@ -1,7 +1,6 @@
 import math
 import pygame
 
-
 import config
 from init_screen import init_screen
 from main_menu import main_menu
